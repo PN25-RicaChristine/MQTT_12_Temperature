@@ -1,5 +1,3 @@
-# mows
+#MQTT Temperature
 
-MQTT over Websocket Web Application
-
-http://heroku-mqtt-sub-pub-rcd.herokuapp.com/
+SD Elective Project- Rica Christine Debuayan & Romeo Lenizo
